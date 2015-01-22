@@ -171,7 +171,7 @@ font-weight: bold;
 border-radius: 7px;
 color: #666;
 background: #FFBE1A;
-text-align: center;
+text-align: inherit;
 /* border-top: 1px solid #6DBCDB; */
 }
 
